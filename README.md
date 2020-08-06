@@ -1,16 +1,16 @@
-### About my developed Sharp IMG Viewer desktop application 👋
+### About my developed Sharp IMG Viewer desktop application :wave:
 
 ![Sharp IMG Viewer main window](https://sites.google.com/site/sharpimg/viewer/ImageMainForm.jpg)
 
 #### Here are some facts to get you started:
 
-- 🔭 Sharp IMG Viewer is a resource explorer written in C# which lets to open images, extract from various sources, save images in other formats, view image properties including metadata, perform operations on selected images.
-- 💬 Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0
-- 🌱 Sharp IMG Viewer trial version [Download](https://sites.google.com/site/sharpimg/viewer/SharpImgWixSetup.msi?attredirects=0)
-- 👯 You can choose affiliate programs managed by [MyCommerce Share-It!](https://sites.google.com/site/sharpimg/viewer/affiliates).
-- 📫 Please check out [Sharp IMG Viewer online documentation](https://sharp-img-viewer.herokuapp.com/help/index.html) for questions regarding product features and installation.
+- :package: Sharp IMG Viewer is a resource explorer written in C# which lets to open images, extract from various sources, save images in other formats, view image properties including metadata, perform operations on selected images.
+- :speech_balloon: Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0
+- :seedling: Sharp IMG Viewer trial version [Download](https://sites.google.com/site/sharpimg/viewer/SharpImgWixSetup.msi?attredirects=0)
+- :dancers: You can choose affiliate programs managed by [MyCommerce Share-It!](https://sites.google.com/site/sharpimg/viewer/affiliates).
+- :mailbox: Please check out [Sharp IMG Viewer online documentation](https://sharp-img-viewer.herokuapp.com/help/index.html) for questions regarding product features and installation.
 
-- ⚡ The most important supported features are:
+- :zap: The most important supported features are:
   * Loading and saving of images in a variety of formats
   * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, Microsoft Cabinet and WIM formats), disk image files (ISO, FAT, NTFS, EXT), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, compound and compiled help files
   * Transferring image data from scanner or camera
@@ -23,8 +23,8 @@
   * Import and export to Adobe PDF and Scalable Vector Graphics files
   * Drag and drop support
   * Clipboard copy and paste operations support
-
-- 😄 Supported operating systems:
+  
+- :boom: Supported operating systems:
   * Microsoft® Windows® 98
   * Microsoft® Windows® Millennium Edition
   * Microsoft® Windows® 2000 Professional
@@ -40,7 +40,7 @@
   * Microsoft® Windows® Server 2012 R2
   * Microsoft® Windows® 10
 
-- 🤔  Supported image file formats
+- :camera: Supported image file formats
 
 Format | Description
 ------------ | -------------
@@ -85,6 +85,6 @@ ANI | Animated Cursor format (\*.ani)
 **PDF** | Portable Document format (\*.pdf)
 RAW | RAW camera image formats (many extensions)
 
-> Formats supported when writing are marked in bold
+> :exclamation: Formats supported when writing are marked in bold
 
-See also: [Sharp IMG Viewer](http://sharpimg-viewer.appspot.com/) web site
+:link: See also: [Sharp IMG Viewer](http://sharpimg-viewer.appspot.com/) web site
