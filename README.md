@@ -1,6 +1,6 @@
 ### About my developed Sharp IMG Viewer desktop application :wave:
 
-![Sharp IMG Viewer main window](http://www.shareit.com/pimages/P300270130/THUMB/300270130.jpg)
+![Sharp IMG Viewer main window](images/ImageMainForm.jpg)
 
 #### Here are some facts to get you started:
 
