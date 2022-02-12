@@ -12,7 +12,7 @@
 
 - :zap: The most important supported features are:
   * Loading and saving of images in a variety of formats
-  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, Microsoft Cabinet and WIM formats), disk image files (ISO, FAT, NTFS, EXT), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, compound and compiled help files
+  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, CPIO, Zstandard, Brotli, LZ4, LZ5, Lizard, LZH, Microsoft Cabinet and WIM formats), disk image files (ISO, FAT, NTFS, EXT), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, RPM packages, compound and compiled help files
   * Transferring image data from scanner or camera
   * Sending image to E-mail and Skype recipients
   * Easy access to image metadata
