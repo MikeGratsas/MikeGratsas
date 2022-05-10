@@ -5,14 +5,14 @@
 #### Here are some facts to get you started:
 
 - :package: Sharp IMG Viewer is a resource explorer written in C# which lets to open images, extract from various sources, save images in other formats, view image properties including metadata, perform operations on selected images.
-- :speech_balloon: Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0
+- :speech_balloon: Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0 or later.
 - :seedling: Sharp IMG Viewer trial version [Download](https://sharp-img-viewer.herokuapp.com/files/SharpImgWixSetup.msi)
 - :dancers: You can choose affiliate programs managed by [MyCommerce Share-It!](https://sites.google.com/site/sharpimg/viewer/affiliates).
 - :mailbox: Please check out [Sharp IMG Viewer online documentation](https://sharp-img-viewer.herokuapp.com/help/index.html) for questions regarding product features and installation.
 
 - :zap: The most important supported features are:
   * Loading and saving of images in a variety of formats
-  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, CPIO, Zstandard, Brotli, LZ4, LZ5, Lizard, LZH, Microsoft Cabinet and WIM formats), disk image files (ISO, FAT, NTFS, EXT), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, RPM packages, compound and compiled help files
+  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, CPIO, Zstandard, Brotli, Snappy, LZ4, LZ5, Lizard, LZH, LZO, UNIX dump, Microsoft Cabinet, Encrypted APPX and WIM formats), disk image files (ISO, FAT, NTFS, EXT, SquashFS, Btrfs, XFS), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD and VHDX, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, RPM packages, compound and compiled help files
   * Transferring image data from scanner or camera
   * Sending image to E-mail and Skype recipients
   * Easy access to image metadata
