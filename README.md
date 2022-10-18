@@ -19,7 +19,7 @@
   * Converting bitmap's bit depths from one to another
   * Accessing frames in an image when there are multiple
   * Basic manipulation of images, such as rotation, flipping and resampling
-  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes
+  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes (ITF, Code 39, Code 93, Code 128, EAN-8, EAN-13, UPC-A, UPC-E, Codabar, Plessey, MSI, DataMatrix, PDF417, Aztec, QR Code)
   * Import and export to Adobe PDF and Scalable Vector Graphics files
   * Drag and drop support
   * Clipboard copy and paste operations support
