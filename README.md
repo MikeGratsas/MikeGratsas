@@ -6,7 +6,7 @@
 
 - :package: Sharp IMG Viewer is a resource explorer written in C# which lets to open images, extract from various sources, save images in other formats, view image properties including metadata, perform operations on selected images.
 - :speech_balloon: Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0 or later.
-- :seedling: Sharp IMG Viewer trial version [Download](../sharp-img-viewer/releases/latest/download/SharpImgWixSetup.msi)
+- :seedling: Sharp IMG Viewer trial version [Download](https://github.com/MikeGratsas/sharp-img-viewer/releases/latest/download/SharpImgWixSetup.msi)
 - :dancers: You can choose affiliate programs managed by [MyCommerce Share-It!](https://sites.google.com/site/sharpimg/viewer/affiliates).
 - :mailbox: Please check out [Sharp IMG Viewer online documentation](https://sharp-img-viewer.b4a.app/help/index.html) for questions regarding product features and installation.
 
