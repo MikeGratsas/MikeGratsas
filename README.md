@@ -8,18 +8,18 @@
 - :speech_balloon: Sharp IMG Viewer is developed for the .NET Framework 2.0 or later. .NET Framework 3.5 Service Pack 1 is highly recommended to install the program. Microsoft Visual C++ 2010 Redistributable Package (x86) is needed to view PDF files if you are using the .NET Framework 4.0 or later.
 - :seedling: Sharp IMG Viewer trial version [Download](https://github.com/MikeGratsas/sharp-img-viewer/releases/latest/download/SharpImgWixSetup.msi)
 - :dancers: You can choose affiliate programs managed by [MyCommerce Share-It!](https://sites.google.com/site/sharpimg/viewer/affiliates).
-- :mailbox: Please check out [Sharp IMG Viewer online documentation](https://sharp-img-viewer.b4a.app/help/index.html) for questions regarding product features and installation.
+- :mailbox: Please check out [Sharp IMG Viewer online documentation](https://mikegratsas.github.io/sharp-img-viewer/index.html) for questions regarding product features and installation.
 
 - :zap: The most important supported features are:
   * Loading and saving of images in a variety of formats
-  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, XAR, CPIO, Zstandard, Brotli, Snappy, LZ4, LZ5, Lizard, LZH, LZO, LZFSE, UNIX dump, Microsoft Cabinet, Encrypted APPX and WIM formats), disk image files (ISO, FAT, NTFS, EXT, SquashFS, Btrfs, XFS), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD and VHDX, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, RPM packages, compound and compiled help files
+  * Extracting images from assemblies, archives (ZIP, GZIP, BZIP2, TAR, Z, PPMd, 7z, LZMA, XZ, RAR, ARJ, XAR, CPIO, Zstandard, Brotli, Snappy, LZ4, LZ5, Lizard, LZH, LZO, LZFSE, UNIX dump, Microsoft Cabinet, Encrypted APPX and WIM formats), disk image files (ISO, FAT, NTFS, EXT, SquashFS, Btrfs, XFS), virtual disk files (VMware VMDK, Oracle VirtualBox VDI, Microsoft VHD and VHDX, XenServer Virtual Appliance XVA, Apple DMG), Windows executables, resources, Shockwave Flash (SWF), video, RPM packages, compound and compiled help files
   * Transferring image data from scanner or camera
   * Sending image to E-mail and Skype recipients
   * Easy access to image metadata
   * Converting bitmap's bit depths from one to another
   * Accessing frames in an image when there are multiple
   * Basic manipulation of images, such as rotation, flipping and resampling
-  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes (ITF, Code 39, Code 93, Code 128, EAN-8, EAN-13, UPC-A, UPC-E, Codabar, Plessey, MSI, Dutch Post TNT KIX, Royal Mail CBC 4-state, Royal Mail Mailmark 4-state, USPS Intelligent Mail, Australia Post, Japan Post, DataMatrix, PDF417, Aztec, MaxiCode, Han Xin, QR Code)
+  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes (ITF, Code 39, Code 93, Code 128, EAN-8, EAN-13, UPC-A, UPC-E, Codabar, Plessey, MSI, Dutch Post TNT KIX, Royal Mail CBC 4-state, Royal Mail Mailmark 4-state, USPS Intelligent Mail, Australia Post, Japan Post, DataMatrix, PDF417, Aztec, DotCode, MaxiCode, Han Xin, QR Code)
   * Barcode detection on images
   * Import and export to Adobe PDF, multipage TIFF, multiframe GIF, Scalable Vector Graphics and video files
   * Drag and drop support
