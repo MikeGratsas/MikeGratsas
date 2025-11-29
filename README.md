@@ -19,7 +19,7 @@
   * Converting bitmap's bit depths from one to another
   * Accessing frames in an image when there are multiple
   * Basic manipulation of images, such as rotation, flipping and resampling
-  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes (ITF, Code 39, Code 93, Code 128, EAN-8, EAN-13, UPC-A, UPC-E, Codabar, Plessey, MSI, Dutch Post TNT KIX, Royal Mail CBC 4-state, Royal Mail Mailmark 4-state, USPS Intelligent Mail, Australia Post, Japan Post, DataMatrix, PDF417, Aztec, DotCode, MaxiCode, Han Xin, QR Code)
+  * Alpha compositing and alpha blending applying layers to draw lines, shapes (rectangles, ellipses, rounded rectangles, arcs, pies, chords, polylines, polygons), curves (cardinal and Bézier splines), text strings and bar codes (ITF, Code 39, Code 93, Code 128, EAN-8, EAN-13, UPC-A, UPC-E, Codabar, Plessey, MSI, Dutch Post TNT KIX, Royal Mail CBC 4-state, Royal Mail Mailmark 4-state, USPS Intelligent Mail, Australia Post, Japan Post, GS1 DataBar, DataMatrix, PDF417, MicroPDF417, Aztec, DotCode, MaxiCode, Han Xin, QR Code)
   * Barcode detection on images
   * Import and export to Adobe PDF, multipage TIFF, multiframe GIF, Scalable Vector Graphics and video files
   * Drag and drop support
